@@ -1,51 +1,132 @@
 # NAME
 
-Task::BeLike::EST
+Task::BeLike::EST - EST's favarite CPAN modules
 
-# DESCRIPTION
+# CONTENTS
 
-Task::BeLike::EST is a list of CPAN modules that I use.
+## OO TOOLS
 
-# INSTALLATION
+- Moo
+- namespace::autoclean
 
-Task::BeLike::EST installation is straightforward. If you have cpanm
-you should just be able to do
+## DATABASE
 
-    % cpanm Task::BeLike::EST
+- DBI
+- DBD::SQLite
+- DBIx::Connector
+- DBIx::Class
 
-Download it, unpack it, then build it as per the usual:
+## FILE, PATH
 
-    % perl Makefile.PL
-    % make && make test
+- Path::Tiny
+- IO::All
+- File::chdir
+- File::AtomicWrite
+- IPC::System::Simple
 
-Then install it:
+## CPAN TOOLS
 
-    % make install
+- CPAN::Mini
+- CPAN::Mini::Inject
+- App::cpanoutdated
+- Dist::Milla
 
-# DOCUMENTATION
+## DATA SERIALISER
 
-Task::BeLike::EST documentation is available as in POD. So you can do:
+- JSON::MaybeXS
+- JSON
+- XML::Twig
+- XML::LibXML
+- XML::Toolkit
+- YAML
+- YAML::Tiny
+- YAML::XS
+- File::Serialize
 
-    % perldoc Task::BeLike::EST
+## EMAILS
 
-to read the documentation online with your favorite pager.
+- Email::Sender::Simple
+- Email::MIME
+- Email::Valid
+- Email::Stuffer
+
+## FORKING, PARALLEL, LIMIT PROCESS
+
+- Parallel::ForkManager
+- IPC::ConcurrencyLimit
+- IPC::ConcurrencyLimit::Lock::NFS
+- MCE
+
+## DEBUGGING
+
+- Carp::Always
+- DB::Skip
+- DB::Color
+- Data::Show
+- Data::Printer
+
+## WEB
+
+- PSGI
+- Plack
+- Mojolicious
+
+## LOGGING
+
+- Log::Log4perl
+
+## CONFIGURATION
+
+- Config::ZOMG
+
+## DEPLOYMENT
+
+- Carton
+- Carmel
+
+## DATE/TIME
+
+- Time::Moment
+
+## TESTING
+
+- Test::Pretty
+- Test::Deep
+
+## REGEX
+
+- Regexp::Debugger
+- Regexp::Common
+
+## TEMPLATE
+
+- Text::Xslate 
+- Text::CSV\_XS
+
+## DATA TOOLS
+
+- Tie::StoredOrderHash
+- Hash::Ordered
+- List::AllUtils
+- Const::Fast
+- CLDR::Number
+
+## OTHER USEFUL MODULES
+
+- boolean
+- Kavorka
+- Safe::Isa
+- Import::Into
+- failures
+- Perl::Tidy
+- Data::GUID
+- Attempt
 
 # AUTHOR
 
-Eddy Tan <eddy.tan@fujixerox.com>
+Eddy (est) 
 
-# COPYRIGHT
-
-Copyright 2015- Eddy Tan
-
-# LICENSE
+# COPYRIGHT AND LISENCE
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
-
-# SEE ALSO
-
-Other Task::BeLike:: namespace on CPAN to see what other author uses.
-
-
-

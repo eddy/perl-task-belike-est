@@ -6,3 +6,6 @@ our $VERSION = '0.01';
 
 1;
 __END__
+
+# ABSTRACT: A list of CPAN modules that I use regularly.
+
