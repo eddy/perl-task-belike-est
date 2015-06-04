@@ -1,0 +1,254 @@
+=encoding utf8
+
+=head1 NAME
+
+Task::BeLike::EST - EST's favarite CPAN modules
+
+=head1 CONTENTS
+
+=head2 OO TOOLS
+
+=over
+
+=item Moo
+
+=item namespace::autoclean
+
+=back
+
+=head2 DATABASE
+
+=over
+
+=item DBI
+
+=item DBD::SQLite
+
+=item DBIx::Connector
+
+=item DBIx::Class
+
+=back
+
+=head2 FILE, PATH
+
+=over
+
+=item Path::Tiny
+
+=item IO::All
+
+=item File::chdir
+
+=item File::AtomicWrite
+
+=item IPC::System::Simple
+
+=back
+
+=head2 CPAN TOOLS
+
+=over
+
+=item CPAN::Mini
+
+=item CPAN::Mini::Inject
+
+=item App::cpanoutdated
+
+=item Dist::Milla
+
+=back
+
+=head2 DATA SERIALISER
+
+=over
+
+=item JSON::MaybeXS
+
+=item JSON
+
+=item XML::Twig
+
+=item XML::LibXML
+
+=item XML::Toolkit
+
+=item YAML
+
+=item YAML::Tiny
+
+=item YAML::XS
+
+=item File::Serialize
+
+=back
+
+=head2 EMAILS
+
+=over
+
+=item Email::Sender::Simple
+
+=item Email::MIME
+
+=item Email::Valid
+
+=item Email::Stuffer
+
+=back
+
+=head2 FORKING, PARALLEL, LIMIT PROCESS
+
+=over
+
+=item Parallel::ForkManager
+
+=item IPC::ConcurrencyLimit
+
+=item IPC::ConcurrencyLimit::Lock::NFS
+
+=item MCE
+
+=back
+
+=head2 DEBUGGING
+
+=over
+
+=item Carp::Always
+
+=item DB::Skip
+
+=item DB::Color
+
+=item Data::Show
+
+=item Data::Printer
+
+=back
+
+=head2 WEB
+
+=over
+
+=item PSGI
+
+=item Plack
+
+=item Mojolicious
+
+=back
+
+=head2 LOGGING
+
+=over
+
+=item Log::Log4perl
+
+=back
+
+=head2 CONFIGURATION
+
+=over
+
+=item Config::ZOMG
+
+=back
+
+=head2 DEPLOYMENT
+
+=over
+
+=item Carton
+
+=item Carmel
+
+=back
+
+=head2 DATE/TIME
+
+=over
+
+=item Time::Moment
+
+=back
+
+=head2 TESTING
+
+=over
+
+=item Test::Pretty
+
+=item Test::Deep
+
+=back
+
+=head2 REGEX
+
+=over
+
+=item Regexp::Debugger
+
+=item Regexp::Common
+
+=back
+
+=head2 TEMPLATE
+
+=over
+
+=item Text::Xslate 
+
+=item Text::CSV_XS
+
+=back
+
+=head2 DATA TOOLS
+
+=over
+
+=item Tie::StoredOrderHash
+
+=item Hash::Ordered
+
+=item List::AllUtils
+
+=item Const::Fast
+
+=item CLDR::Number
+
+=back
+
+=head2 OTHER USEFUL MODULES
+
+=over
+
+=item boolean
+
+=item Kavorka
+
+=item Safe::Isa
+
+=item Import::Into
+
+=item failures
+
+=item Perl::Tidy
+
+=item Data::GUID
+
+=item Attempt
+
+=back
+
+=head1 AUTHOR
+
+Eddy (est) 
+
+=head1 COPYRIGHT AND LISENCE
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
+
+=cut
