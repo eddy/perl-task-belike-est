@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/eddy/perl-task-belike-est.svg?branch=master)](https://travis-ci.org/eddy/perl-task-belike-est)
-[![Coverage Status](https://coveralls.io/repos/eddy/perl-task-belike-est/badge.svg)](https://coveralls.io/r/eddy/perl-task-belike-est)
+[![Coverage Status](https://coveralls.io/repos/eddy/perl-task-belike-est/badge.svg?branch=master)](https://coveralls.io/r/eddy/perl-task-belike-est?branch=master)
+[![CPAN version](https://badge.fury.io/pl/EST%2FTask-BeLike-EST-0.01.svg)](http://badge.fury.io/pl/EST%2FTask-BeLike-EST-0.01)
 
 # NAME
 
