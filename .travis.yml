@@ -10,3 +10,6 @@ matrix:
       env: COVERAGE=1
 before_install:
   - eval $(curl https://travis-perl.github.io/init) --auto
+after_success:
+  - coverage-report
+
