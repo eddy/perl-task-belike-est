@@ -4,6 +4,11 @@
 
 Task::BeLike::EST - EST's favarite CPAN modules
 
+=for html
+<a href="https://travis-ci.org/eddy/perl-task-belike-est"><img alt="Build Status" src="https://travis-ci.org/eddy/perl-task-belike-est.svg?branch=master" /></a>
+<a href="https://coveralls.io/r/eddy/perl-task-belike-est?branch=master"><img alt="Coverage Status" src="https://coveralls.io/repos/eddy/perl-task-belike-est/badge.svg?branch=master" /></a>
+<a href="http://badge.fury.io/pl/EST%2FTask-BeLike-EST-0.01"><img alt="CPAN version" src="https://badge.fury.io/pl/EST%2FTask-BeLike-EST-0.01.svg" /></a>
+
 =head1 CONTENTS
 
 =head2 OO TOOLS
