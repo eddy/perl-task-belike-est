@@ -1,10 +1,13 @@
-[![Build Status](https://travis-ci.org/eddy/perl-task-belike-est.svg?branch=master)](https://travis-ci.org/eddy/perl-task-belike-est)
-[![Coverage Status](https://coveralls.io/repos/eddy/perl-task-belike-est/badge.svg?branch=master)](https://coveralls.io/r/eddy/perl-task-belike-est?branch=master)
-[![CPAN version](https://badge.fury.io/pl/EST%2FTask-BeLike-EST-0.01.svg)](http://badge.fury.io/pl/EST%2FTask-BeLike-EST-0.01)
-
 # NAME
 
 Task::BeLike::EST - EST's favarite CPAN modules
+
+<div>
+
+    <a href="https://travis-ci.org/eddy/perl-task-belike-est"><img alt="Build Status" src="https://travis-ci.org/eddy/perl-task-belike-est.svg?branch=master" /></a>
+    <a href="https://coveralls.io/r/eddy/perl-task-belike-est?branch=master"><img alt="Coverage Status" src="https://coveralls.io/repos/eddy/perl-task-belike-est/badge.svg?branch=master" /></a>
+    <a href="http://badge.fury.io/pl/EST%2FTask-BeLike-EST-0.01"><img alt="CPAN version" src="https://badge.fury.io/pl/EST%2FTask-BeLike-EST-0.01.svg" /></a>
+</div>
 
 # CONTENTS
 
