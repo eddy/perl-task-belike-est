@@ -107,6 +107,12 @@
          }
       }
    },
+   "provides" : {
+      "Task::BeLike::EST" : {
+         "file" : "lib/Task/BeLike/EST.pm",
+         "version" : "0.02"
+      }
+   },
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {

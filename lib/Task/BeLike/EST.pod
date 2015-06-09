@@ -15,9 +15,9 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item Moo
+=item L<Moo>
 
-=item namespace::autoclean
+=item L<namespace::autoclean>
 
 =back
 
@@ -25,13 +25,13 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item DBI
+=item L<DBI>
 
-=item DBD::SQLite
+=item L<DBD::SQLite>
 
-=item DBIx::Connector
+=item L<DBIx::Connector>
 
-=item DBIx::Class
+=item L<DBIx::Class>
 
 =back
 
@@ -39,15 +39,15 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item Path::Tiny
+=item L<Path::Tiny>
 
-=item IO::All
+=item L<IO::All>
 
-=item File::chdir
+=item L<File::chdir>
 
-=item File::AtomicWrite
+=item L<File::AtomicWrite>
 
-=item IPC::System::Simple
+=item L<IPC::System::Simple>
 
 =back
 
@@ -55,13 +55,13 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item CPAN::Mini
+=item L<CPAN::Mini>
 
-=item CPAN::Mini::Inject
+=item L<CPAN::Mini::Inject>
 
-=item App::cpanoutdated
+=item L<App::cpanoutdated>
 
-=item Dist::Milla
+=item L<Dist::Milla>
 
 =back
 
@@ -69,23 +69,23 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item JSON::MaybeXS
+=item L<JSON::MaybeXS>
 
-=item JSON
+=item L<JSON>
 
-=item XML::Twig
+=item L<XML::Twig>
 
-=item XML::LibXML
+=item L<XML::LibXML>
 
-=item XML::Toolkit
+=item L<XML::Toolkit>
 
-=item YAML
+=item L<YAML>
 
-=item YAML::Tiny
+=item L<YAML::Tiny>
 
-=item YAML::XS
+=item L<YAML::XS>
 
-=item File::Serialize
+=item L<File::Serialize>
 
 =back
 
@@ -93,13 +93,13 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item Email::Sender::Simple
+=item L<Email::Sender::Simple>
 
-=item Email::MIME
+=item L<Email::MIME>
 
-=item Email::Valid
+=item L<Email::Valid>
 
-=item Email::Stuffer
+=item L<Email::Stuffer>
 
 =back
 
@@ -107,13 +107,13 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item Parallel::ForkManager
+=item L<Parallel::ForkManager>
 
-=item IPC::ConcurrencyLimit
+=item L<IPC::ConcurrencyLimit>
 
-=item IPC::ConcurrencyLimit::Lock::NFS
+=item L<IPC::ConcurrencyLimit::Lock::NFS>
 
-=item MCE
+=item L<MCE>
 
 =back
 
@@ -121,15 +121,15 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item Carp::Always
+=item L<Carp::Always>
 
-=item DB::Skip
+=item L<DB::Skip>
 
-=item DB::Color
+=item L<DB::Color>
 
-=item Data::Show
+=item L<Data::Show>
 
-=item Data::Printer
+=item L<Data::Printer>
 
 =back
 
@@ -137,11 +137,11 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item PSGI
+=item L<PSGI>
 
-=item Plack
+=item L<Plack>
 
-=item Mojolicious
+=item L<Mojolicious>
 
 =back
 
@@ -149,7 +149,7 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item Log::Log4perl
+=item L<Log::Log4perl>
 
 =back
 
@@ -157,7 +157,7 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item Config::ZOMG
+=item L<Config::ZOMG>
 
 =back
 
@@ -165,9 +165,9 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item Carton
+=item L<Carton>
 
-=item Carmel
+=item L<Carmel>
 
 =back
 
@@ -175,7 +175,7 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item Time::Moment
+=item L<Time::Moment>
 
 =back
 
@@ -183,9 +183,9 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item Test::Pretty
+=item L<Test::Pretty>
 
-=item Test::Deep
+=item L<Test::Deep>
 
 =back
 
@@ -193,9 +193,9 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item Regexp::Debugger
+=item L<Regexp::Debugger>
 
-=item Regexp::Common
+=item L<Regexp::Common>
 
 =back
 
@@ -203,9 +203,9 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item Text::Xslate 
+=item L<Text::Xslate>
 
-=item Text::CSV_XS
+=item L<Text::CSV_XS>
 
 =back
 
@@ -213,15 +213,15 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item Tie::StoredOrderHash
+=item L<Tie::StoredOrderHash>
 
-=item Hash::Ordered
+=item L<Hash::Ordered>
 
-=item List::AllUtils
+=item L<List::AllUtils>
 
-=item Const::Fast
+=item L<Const::Fast>
 
-=item CLDR::Number
+=item L<CLDR::Number>
 
 =back
 
@@ -229,21 +229,21 @@ Task::BeLike::EST - EST's favarite CPAN modules
 
 =over
 
-=item boolean
+=item L<boolean>
 
-=item Kavorka
+=item L<Kavorka>
 
-=item Safe::Isa
+=item L<Safe::Isa>
 
-=item Import::Into
+=item L<Import::Into>
 
-=item failures
+=item L<failures>
 
-=item Perl::Tidy
+=item L<Perl::Tidy>
 
-=item Data::GUID
+=item L<Data::GUID>
 
-=item Attempt
+=item L<Attempt>
 
 =back
 
