@@ -1,4 +1,5 @@
-Revision history for Task-BeLike-EST
+Revision history for task-belike-est
 
 {{$NEXT}}
-        - Initial release
+        - Add warnings.
+        - Bump version.
