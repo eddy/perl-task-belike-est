@@ -1,7 +1,7 @@
 {
    "abstract" : "A list of CPAN modules that I use regularly.",
    "author" : [
-      "Eddy (est) "
+      "Eddy Eddy"
    ],
    "dynamic_config" : 0,
    "generated_by" : "Dist::Zilla version 5.036, Dist::Milla version v1.0.15, CPAN::Meta::Converter version 2.150001",
@@ -12,7 +12,7 @@
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
       "version" : 2
    },
-   "name" : "Task-BeLike-EST",
+   "name" : "task-belike-est",
    "no_index" : {
       "directory" : [
          "t",
